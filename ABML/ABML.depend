@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1593131715 source:c:\users\guill\onedrive\desktop\proyecto lab 2020\abml\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<windows.h>
+	"fecha.h"
+	"prototipos.h"
+	"tipos.h"
+	"posicionador.h"
+	"alumno_metodos.h"
+	"alumnos.h"
+	"profesores_metodos.h"
+	"profesores.h"
+	"menu.h"
+
+1593148102 c:\users\guill\onedrive\desktop\proyecto lab 2020\abml\menu.h
+
+1592975370 c:\users\guill\onedrive\desktop\proyecto lab 2020\abml\posicionador.h
+
+1592965598 c:\users\guill\onedrive\desktop\proyecto lab 2020\abml\prototipos.h
+
+1593146948 c:\users\guill\onedrive\desktop\proyecto lab 2020\abml\tipos.h
+
+1593145527 c:\users\guill\onedrive\desktop\proyecto lab 2020\abml\alumnos.h
+
+1593144054 c:\users\guill\onedrive\desktop\proyecto lab 2020\abml\profesores.h
+
+1593146401 c:\users\guill\onedrive\desktop\proyecto lab 2020\abml\alumno_metodos.h
+
+1593142452 c:\users\guill\onedrive\desktop\proyecto lab 2020\abml\profesores_metodos.h
+
+1593121276 c:\users\guill\onedrive\desktop\proyecto lab 2020\abml\fecha.h
+

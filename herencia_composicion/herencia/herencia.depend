@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1276095931 source:c:\users\dek\documents\curso ejemplos c\ejemplos codigo\lab2\herencia\main.cpp
+	<iostream>
+	"fecha.h"
+	"direccion.h"
+	"persona.h"
+
+1276095931 "
+
+1276168986 c:\users\dek\documents\curso ejemplos c\ejemplos codigo\lab2\herencia\fecha.h
+
+1276118108 c:\users\dek\documents\curso ejemplos c\ejemplos codigo\lab2\herencia\direccion.h
+
+1276117422 c:\users\dek\documents\curso ejemplos c\ejemplos codigo\lab2\herencia\persona.h
+
+1287628198 source:/home/angelsimon/Documentos/UTN/LAB2/sandbox/test/herencia/main.cpp
+	<iostream>
+	<string.h>
+	"fecha.h"
+	"direccion.h"
+	"persona.h"
+
+1276169298 /home/angelsimon/Documentos/UTN/LAB2/sandbox/test/herencia/fecha.h
+
+1276118108 /home/angelsimon/Documentos/UTN/LAB2/sandbox/test/herencia/direccion.h
+
+1276117422 /home/angelsimon/Documentos/UTN/LAB2/sandbox/test/herencia/persona.h
+
+1287628198 source:/home/angel/Dropbox/UTN/LAB2/sandbox/release/herencia/main.cpp
+	<iostream>
+	<string.h>
+	"fecha.h"
+	"direccion.h"
+	"persona.h"
+
+1276169298 /home/angel/Dropbox/UTN/LAB2/sandbox/release/herencia/fecha.h
+
+1319079072 /home/angel/Dropbox/UTN/LAB2/sandbox/release/herencia/direccion.h
+
+1319079231 /home/angel/Dropbox/UTN/LAB2/sandbox/release/herencia/persona.h
+
+1591516678 source:c:\users\guill\onedrive\desktop\herencia_composicion\herencia\main.cpp
+	<iostream>
+	<string.h>
+	<cstdio>
+	<ctime>
+	"fecha.h"
+	"direccion.h"
+	"persona.h"
+
+1591516678 c:\users\guill\onedrive\desktop\herencia_composicion\herencia\fecha.h
+
+1591516678 c:\users\guill\onedrive\desktop\herencia_composicion\herencia\direccion.h
+
+1591516679 c:\users\guill\onedrive\desktop\herencia_composicion\herencia\persona.h
+

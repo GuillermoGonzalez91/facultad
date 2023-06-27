@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1586217357 source:c:\users\daniel kloster\documents\curso ejemplos c\lab2\archivo_alu\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"tipos.h"
+	"prototipos.h"
+	"funciones.h"
+
+1586216637 c:\users\daniel kloster\documents\curso ejemplos c\lab2\archivo_alu\tipos.h
+
+1586217356 c:\users\daniel kloster\documents\curso ejemplos c\lab2\archivo_alu\prototipos.h
+
+1586218275 c:\users\daniel kloster\documents\curso ejemplos c\lab2\archivo_alu\funciones.h
+
+1586820397 source:c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\archivo_alu\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"tipos.h"
+	"prototipos.h"
+	"funciones.h"
+
+1586818609 c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\archivo_alu\tipos.h
+
+1586819911 c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\archivo_alu\prototipos.h
+
+1587134507 c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\archivo_alu\funciones.h
+
+1588162789 source:c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\archivo_alu_1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"tipos.h"
+	"prototipos.h"
+	"funciones.h"
+
+1586818609 c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\archivo_alu_1\tipos.h
+
+1588162789 c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\archivo_alu_1\prototipos.h
+
+1588162848 c:\users\daniel kloster\documents\curso ejemplos c\programacion ii\2020\archivo_alu_1\funciones.h
+
+1591799858 source:c:\bkp dek\documentos\curso ejemplos c\programacion ii\2020\archivo_alu_1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"tipos.h"
+	"prototipos.h"
+	"funciones.h"
+	"alu_metodos.h"
+
+1591800654 c:\bkp dek\documentos\curso ejemplos c\programacion ii\2020\archivo_alu_1\tipos.h
+
+1591798377 c:\bkp dek\documentos\curso ejemplos c\programacion ii\2020\archivo_alu_1\prototipos.h
+
+1591798409 c:\bkp dek\documentos\curso ejemplos c\programacion ii\2020\archivo_alu_1\funciones.h
+
+1591800733 c:\bkp dek\documentos\curso ejemplos c\programacion ii\2020\archivo_alu_1\alu_metodos.h
+
+1593029013 source:c:\users\guill\onedrive\desktop\archivo_alu_1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	"tipos.h"
+	"prototipos.h"
+	"funciones.h"
+	"alu_metodos.h"
+
+1591814571 c:\users\guill\onedrive\desktop\archivo_alu_1\tipos.h
+
+1592797388 c:\users\guill\onedrive\desktop\archivo_alu_1\prototipos.h
+
+1592970149 c:\users\guill\onedrive\desktop\archivo_alu_1\funciones.h
+
+1592970089 c:\users\guill\onedrive\desktop\archivo_alu_1\alu_metodos.h
+
